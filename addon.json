@@ -1,0 +1,13 @@
+{
+	"title"		:	"SpehsMawd",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.git*",
+		"*.lde*",
+		"*.txt*"
+	]
+}
